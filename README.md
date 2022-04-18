@@ -1,4 +1,4 @@
-# mt-m1pcSetup
+# Moneytree Mac with M1 chip setup guide
 A comprehensive guide for setting up an M1 chipped machine for work at Moneytree
    
 # Setup instructions
